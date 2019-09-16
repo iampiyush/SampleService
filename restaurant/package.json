@@ -1,0 +1,39 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "restaurant API's",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "1.4.3",
+    "debug": "~0.7.2",
+    "errorhandler": "1.1.1",
+    "express": "~4.14.0",
+    "joi": "^10.2.2",
+    "lodash": "~3.10.1",
+    "log-util": "1.2.0",
+    "morgan": "1.1.1",
+    "q": "1.2.0",
+    "querystring": "^0.2.0",
+    "request": "2.45.0",
+    "uid2": "0.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "istanbul": "0.4.3",
+    "optimist": "^0.6.1"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Piyush",
+  "license": "ISC"
+}
